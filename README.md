@@ -1,9 +1,6 @@
 Hi 👋 My name is Matias
 ===============================
 
-Information Technology Student
--------------------------------------------------
-
 * 🚀  I'm currently working on [Live Chat App](http://github.com/matiasdni/discord-clone)
 * 🧠  I'm learning Firebase and TailwindCSS
 * 🤝  I'm open to collaborating on interesting projects
